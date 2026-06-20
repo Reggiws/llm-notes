@@ -35,4 +35,4 @@ npx quartz build -d . --serve
 
 ## 📄 License
 
-MIT
+[CC BY 4.0](LICENSE)
